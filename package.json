@@ -13,5 +13,28 @@
     "redux": "^4.0.4",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.9"
-  }
+  },
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evd08/bench_bnb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evd08/bench_bnb/issues"
+  },
+  "homepage": "https://github.com/evd08/bench_bnb#readme"
 }
